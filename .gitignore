@@ -2,7 +2,7 @@
 *.class
 
 # Ignore compiled directory
-dendron
+/dendron/
 
 # Ignore replit files
 .replit

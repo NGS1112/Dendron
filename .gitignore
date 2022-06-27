@@ -1,0 +1,9 @@
+# Ignore compiled objects
+*.class
+
+# Ignore compiled directory
+dendron
+
+# Ignore replit files
+.replit
+*.nix
